@@ -102,15 +102,6 @@ header .btn {
     font-size: 24px;
     margin-bottom: 20px;
 }
-.why-web-development {
-    padding: 50px 0;
-    text-align: center;
-}
-
-.why-web-development h2 {
-    font-size: 24px;
-    margin-bottom: 20px;
-}
 
 .inspiration {
     padding: 50px 0;
@@ -385,13 +376,6 @@ footer .social-links img {
 .image-content img {
     max-width: 100%;
     height: auto;
-}
-
-
-/* why-web-development */
-.container-dev {
-    display: flex;
-    flex-direction: row; 
 }
 
 .image-content {
