@@ -189,15 +189,6 @@ header .btn {
     display: flex;
     justify-content: center;
 }
-.why-web-development {
-    padding: 50px 0;
-    text-align: center;
-}
-
-.why-web-development h2 {
-    font-size: 24px;
-    margin-bottom: 20px;
-}
 
 .inspiration {
     padding: 50px 0;
@@ -233,11 +224,29 @@ header .btn {
     justify-content: space-around;
 }
 
-.target {
+.target-1 {
     margin: 10px;
     text-align: left;
     width: 80%;
-    background-color: #FFFFFF;
+    background-color: #FF4C1E0D;
+    padding: 50px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+.target-2 {
+    margin: 10px;
+    text-align: left;
+    width: 80%;
+    background-color: #004CE80D;
+    padding: 50px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+.target-3 {
+    margin: 10px;
+    text-align: left;
+    width: 80%;
+    background-color: #FFDF000D;
     padding: 50px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     border-radius: 20px;
@@ -256,7 +265,7 @@ header .btn {
 
 .target .learn-more {
     text-decoration: none;
-    color: #007bff;
+    color: black;
     font-weight: bold;
 }
 
