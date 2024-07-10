@@ -293,7 +293,7 @@ header .btn {
     border-radius: 5px;
     cursor: pointer;
 }
-
+/* Footer Secetion */
 footer {
     background-color: #fff;
     padding: 20px 0;
@@ -379,7 +379,7 @@ footer .social-links img {
 }
 
 
-/* new code */
+/* why-web-development */
 .container-dev {
     display: flex;
     flex-direction: row; 
@@ -424,7 +424,7 @@ footer .social-links img {
     background-color: #0056b3;
 }
 
-/* new footer */
+/* footer Icon */
 footer {
     background-color: #f0f0f0;
     padding: 20px 0;
@@ -456,7 +456,7 @@ footer {
 }
 
 
-/* footer */
+/* footer sp */
 
 .support{
     background-image: url('/image/handshake.jpg');
