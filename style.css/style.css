@@ -452,7 +452,7 @@ footer {
 /* footer sp */
 
 .support{
-    background-image: url('/image/handshake.jpg');
+    background-image: url('../image/handshake.jpg');
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
