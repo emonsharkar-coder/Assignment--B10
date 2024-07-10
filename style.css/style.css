@@ -324,25 +324,6 @@ footer .social-links img {
     text-align: right; 
 }
 
-.sc1{
-    display: flex;
-    justify-content: space-between;
-    text-align: right;
-    justify-content: right;
-}
-.sc2{
-    display: flex;
-    justify-content: space-between;
-    text-align: right;
-    justify-content: left;  
-} 
-.head{
-    display: flex;
-    text-align: left;
-    justify-content: left;
-}
-
-
 .container-dev {
     display: flex;
     text-align: left;
